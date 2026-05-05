@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "725f3d70412b4eb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e65ad3e51211ed32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caa449c489c370cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "动态规划.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "动态规划"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "640a56a698077a7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "272050eda580eb0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4280b512e243f469",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "757232b3d0c3ac69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c9f2fcc4b69eba82",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "647dd64d70dc1d55",
+    "type": "split",
+    "children": [
+      {
+        "id": "9386745423eb871f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42cacbcb15e76a3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "动态规划.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "动态规划 的反向链接列表"
+            }
+          },
+          {
+            "id": "0fe4ffc575f8297a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "动态规划.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "动态规划 的出链列表"
+            }
+          },
+          {
+            "id": "f78abd680426d1f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "68895aa3e893c62a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "动态规划.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "动态规划 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "caa449c489c370cc",
+  "lastOpenFiles": [
+    "Pasted image 20251112103823.png",
+    "Pasted image 20251112100919.png",
+    "Pasted image 20251112100722.png",
+    "Pasted image 20251112093908.png",
+    "算法导论/分治法 Divide and conquer 27c05a2041d28024a526f978e58190a1.md",
+    "动态规划.md"
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "60f4c76f41caaa2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "597cb8d8243a66d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7471f83b0ba19ec3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计网/计网/第二章——应用层 26905a2041d2801bb99dc977d94259c0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第二章——应用层 26905a2041d2801bb99dc977d94259c0"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c08e0a23fda7199d",
+    "type": "split",
+    "children": [
+      {
+        "id": "59773b2c28d657f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74c63050a927bd9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3df204f82c8aabfc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "![image.png](note/计网/计网/第四五章——网络层/数据平面/image.png)",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "386d1306656e7874",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1cc2960886aa42d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "cac8694867bb1d99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e4c35680b3d631e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "467a969911eb1fa0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "ccfd911fe42fad9b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3669b83a56575e82",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "7471f83b0ba19ec3",
+  "lastOpenFiles": [
+    "计网/计网 25405a2041d280a38c99cea4c8833bb9.md",
+    "计网/计网/第六章——链路层.md",
+    "172.24.4.139/share/note/计网/计网/第六章——链路层 1.md",
+    "计网/计网/tmp 26305a2041d2802cb75ad32114422f99.md",
+    "172.24.4.139/share/note/计网/计网/第六章——链路层.md",
+    "172.24.4.139/share/note/计网/计网",
+    "172.24.4.139/share/note/计网",
+    "172.24.4.139/share/note",
+    "172.24.4.139/share",
+    "172.24.4.139",
+    "计网/计网/第四五章——网络层/数据平面 29305a2041d28072b0e1f430dc651666.md",
+    "计网/计网/第四五章——网络层/控制平面.md",
+    "计网/计网/第四五章——网络层/数据平面/image 18.png",
+    "计网/计网/第二章——应用层 26905a2041d2801bb99dc977d94259c0.md",
+    "计网/计网/第四五章——网络层/控制平面/Pasted image 20251110230604.png",
+    "计网/计网/第四五章——网络层/控制平面/Pasted image 20251110221903.png",
+    "计网/计网/第四五章——网络层/控制平面/Pasted image 20251110173511.png",
+    "计网/计网/第四五章——网络层/控制平面/Pasted image 20251110173118.png",
+    "计网/计网/第四五章——网络层/控制平面/Pasted image 20251110172759.png",
+    "计网/计网/第四五章——网络层/控制平面/Pasted image 20251110171649.png",
+    "计网/计网/第四五章——网络层/控制平面/Pasted image 20251110170257.png",
+    "计网/计网/第四五章——网络层/控制平面/Pasted image 20251110170244.png",
+    "计网/计网/第四五章——网络层/控制平面/Pasted image 20251110162052.png",
+    "计网/计网/第四五章——网络层/控制平面/Pasted image 20251110162052.png.md",
+    "计网/计网/第四五章——网络层/Pasted image 20251110162052.png.md",
+    "计网/计网/Pasted image 20251110162052.png.md",
+    "计网/Pasted image 20251110162052.png.md",
+    "Pasted image 20251110162052.png.md",
+    "计网/计网/第四五章——网络层 29305a2041d280caa59ed8de3e177e61.md",
+    "算法导论/算法导论/动态规划.md",
+    "算法导论/算法导论 26305a2041d28045949cee2df0c436a3.md",
+    "算法导论/算法导论/通过使用特定数据结构来提高你算法的效率 29405a2041d280f09cfce4ef2c0f1803.md"
+  ]
+}
